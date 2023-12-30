@@ -102,9 +102,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[All project]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[All projects]**
+- **[key features about me]**
+- **[Next js]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,14 +142,12 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
 
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
