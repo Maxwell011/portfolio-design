@@ -63,7 +63,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Portfolio Design] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -102,7 +102,7 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
+- **[All project]**
 - **[key_feature_2]**
 - **[key_feature_3]**
 
