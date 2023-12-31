@@ -67,7 +67,7 @@ For more information on the importance of a professional README for your reposit
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www..org/">PostgreSQL</a></li>
   </ul>
 </details>
 
