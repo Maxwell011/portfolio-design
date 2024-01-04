@@ -1,6 +1,9 @@
+import Link from "next/link";
+
 const Linkedin = () => {
   return (
     <div>
+      <Link href="https://www.google.com.ng">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="24"
@@ -13,6 +16,7 @@ const Linkedin = () => {
           fill="white"
         />
       </svg>
+      </Link>
     </div>
   );
 };
