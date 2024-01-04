@@ -9,6 +9,8 @@ const config: Config = {
   theme: {
     colors: {
       gold: "#CDAF75",
+      base: "#7A602C",
+      
     },
   },
   plugins: [],
