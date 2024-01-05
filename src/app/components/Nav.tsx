@@ -29,10 +29,18 @@ const Nav = () => {
         <div>
           <ul>
             {/* flex justify-center items-center gap-2.5 px-8 py-[5px] rounded-lg */}
-            <li className="text-lg">Home</li>
-            <li className="text-lg">Work</li>
-            <li className="text-lg">About</li>
-            <li className="text-lg">Contact</li>
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+              Home
+            </li>
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+              Work
+            </li>
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+              About
+            </li>
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+              Contact
+            </li>
           </ul>
         </div>
 
