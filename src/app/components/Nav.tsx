@@ -5,8 +5,7 @@ import Dribble from "../svg/Dribble";
 const Nav = () => {
   return (
     <>
-      <section>
-        {/* Social medial icon links */}
+      <section className="px-[60px] py-3.5 border-b-[#403E3E] border-b border-solid flex items-center justify-around bg-black">
         <div>
           <div className="flex gap-[25px]">
             <div className="w-[34.286px] h-[34.286px] opacity-[0.58] bg-base rounded-2xl flex items-center justify-center ">
@@ -28,16 +27,16 @@ const Nav = () => {
         </div>
         <div>
           <ul className="flex gap-6">
-            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[114px]">
               Home
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
               Work
             </li>
-            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[115px]">
               About
             </li>
-            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
+            <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[129px]">
               Contact
             </li>
           </ul>
