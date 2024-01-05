@@ -27,8 +27,7 @@ const Nav = () => {
           </div>
         </div>
         <div>
-          <ul>
-            {/* flex justify-center items-center gap-2.5 px-8 py-[5px] rounded-lg */}
+          <ul className="flex gap-6">
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
               Home
             </li>
