@@ -12,6 +12,16 @@ const Nav = () => {
                 <Linkedin />
               </div>
             </div>
+            <div className="w-[34.286px] h-[34.286px] opacity-[0.58] bg-base rounded-2xl flex items-center justify-center ">
+              <div className="w-12 h-12 opacity-[0.29] bg-base rounded-3xl flex items-center justify-center p-5">
+                <Linkedin />
+              </div>
+            </div>
+            <div className="w-[34.286px] h-[34.286px] opacity-[0.58] bg-base rounded-2xl flex items-center justify-center ">
+              <div className="w-12 h-12 opacity-[0.29] bg-base rounded-3xl flex items-center justify-center p-5">
+                <Linkedin />
+              </div>
+            </div>
           </div>
         </div>
         <div>
