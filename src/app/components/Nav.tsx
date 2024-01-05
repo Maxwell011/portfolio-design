@@ -44,8 +44,10 @@ const Nav = () => {
           </ul>
         </div>
 
-        <div>
-          <h2>ofomastanley007@gmail.com</h2>
+        <div className="h-[52px] w-[327px] px-6 py-2.5 rounded-lg border-2 border-solid border-[#CDAF75]">
+          <h2 className=" text-xl font-normal leading-[normal] tracking-[0.4px] underline">
+            ofomastanley007@gmail.com
+          </h2>
         </div>
       </section>
     </>
