@@ -10,7 +10,7 @@ const config: Config = {
     colors: {
       gold: "#CDAF75",
       base: "#7A602C",
-      
+      black: "#001314",
     },
   },
   plugins: [],
