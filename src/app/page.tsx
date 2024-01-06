@@ -9,7 +9,7 @@ export default function Home() {
         height={154.839}
         alt="Stanley Image"
       />
-      <h1 className="text-[64px] font-bold">
+      <h1 className="text-[64px] font-bold text-center">
         <span className="bg-gradient-to-r from-grapevine to-vine bg-clip-text text-transparent">
           Hello, I’m Stanley,
         </span>
@@ -17,7 +17,7 @@ export default function Home() {
       </h1>
       <p className="w-[914px] text-white text-center text-lg font-normal">
         {" "}
-        I &apos m a dedicated and enthusiastic product designer with a strong
+        I am a dedicated and enthusiastic product designer with a strong
         passion for creating user-centered experiences. While designing to solve
         problems, I focus on the need to deliver effective conversion and align
         projects with business goals and objectives.
