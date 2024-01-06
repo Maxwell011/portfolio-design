@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="flex flex-col items-center">
       <Image
         src="/Profile Image.png"
         width={154.839}
@@ -12,8 +12,8 @@ export default function Home() {
       <h1 className="text-[64px] font-bold">
         <span className="bg-gradient-to-r from-grapevine to-vine bg-clip-text text-transparent">
           Hello, I’m Stanley,
-        </span>{" "}
-        A Product Designer.
+        </span>
+        <br />A Product Designer.
       </h1>
       <p className="w-[914px] text-white text-center text-lg font-normal">
         {" "}
