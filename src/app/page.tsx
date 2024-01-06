@@ -15,7 +15,7 @@ export default function Home() {
         </span>
         <br />A Product Designer.
       </h1>
-      <p className="w-[914px] text-white text-center text-lg font-normal">
+      <p className="w-[991px] h-[] text-center text-lg font-normal leading-[160%] ">
         {" "}
         I am a dedicated and enthusiastic product designer with a strong
         passion for creating user-centered experiences. While designing to solve
