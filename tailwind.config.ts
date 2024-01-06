@@ -7,11 +7,14 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    fontFamily: {
+      plex: ["IBM Plex Sans", "sans-serif"],
+    },
     extend: {
-      '@layer base': {
-        'h1': {
-          '-webkit-background-clip': 'text',
-          '-webkit-text-fill-color': 'transparent',
+      "@layer base": {
+        h1: {
+          "-webkit-background-clip": "text",
+          "-webkit-text-fill-color": "transparent",
         },
       },
     },
