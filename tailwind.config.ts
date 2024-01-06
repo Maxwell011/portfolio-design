@@ -11,6 +11,8 @@ const config: Config = {
       gold: "#CDAF75",
       base: "#7A602C",
       black: "#001314",
+      grapevine: "#dba6f4",
+      vine: "#a981fe",
     },
   },
   plugins: [],
