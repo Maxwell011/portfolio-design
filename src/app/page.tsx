@@ -14,7 +14,7 @@ export default function Home() {
       </h1>
       <p className="w-[914px] text-white text-center text-lg font-normal">
         {" "}
-        I&apos m a dedicated and enthusiastic product designer with a strong
+        I &apos m a dedicated and enthusiastic product designer with a strong
         passion for creating user-centered experiences. While designing to solve
         problems, I focus on the need to deliver effective conversion and align
         projects with business goals and objectives.
