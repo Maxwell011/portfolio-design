@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center">
+    <main className="flex flex-col items-center bg-black">
       <Image
         src="/Profile Image.png"
         width={154.839}
@@ -15,7 +15,7 @@ export default function Home() {
         </span>
         <br />A Product Designer.
       </h1>
-      <p className="w-[991px] h-[87px] text-center text-lg font-normal leading-[160%] ">
+      <p className="w-[991px] h-[87px] text-center text-lg font-normal leading-[160%] text-[#fff]">
         {" "}
         I am a dedicated and enthusiastic product designer with a strong passion
         for creating user-centered experiences. While designing to solve
