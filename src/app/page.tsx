@@ -9,7 +9,7 @@ export default function Home() {
         height={154.839}
         alt="Stanley Image"
       />
-      <h1 className="text-[64px] font-bold text-center bg-clip-text text-transparent">
+      <h1 className="text-[64px] font-bold text-center">
         <span className="bg-gradient-to-r from-grapevine to-vine bg-clip-text text-transparent">
           Hello, I’m Stanley,
         </span>
