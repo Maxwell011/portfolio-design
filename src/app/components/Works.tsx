@@ -71,15 +71,17 @@ const WorkData = ({
           {/* contents */}
           <div>
             <div>
-              <div>
-                <p>
+              {/* Heading */}
+              <div className="flex items-center gap-2.5">
+                <div className="flex gap-[5px]">
                   <GreenEllipse />
                   <YellowEllipse />
                   <CrimsonEllipse />
-                </p>
+                </div>
                 <h2 className="text-white text-lg font-light">{heading}</h2>
               </div>
-              <h1>{title}</h1>
+
+              <h1 className="">{title}</h1>
               <p>{description}</p>
               {/* <h3>{tech}</h3> */}
               <h3>{link}</h3>
