@@ -1,5 +1,8 @@
 import Image from "next/image";
 import { WORK_DATA } from "../../../constants/index";
+import GreenEllipse from "../svg/GreenEllipse";
+import YellowEllipse from "../svg/YellowEllipse";
+import CrimsonEllipse from "../svg/CrimsonEllipse";
 
 const Works = () => {
   return (
@@ -68,7 +71,14 @@ const WorkData = ({
           {/* contents */}
           <div>
             <div>
-              <h2>{heading}</h2>
+              <div>
+                <p>
+                  <GreenEllipse />
+                  <YellowEllipse />
+                  <CrimsonEllipse />
+                </p>
+                <h2 className="text-white text-lg font-light">{heading}</h2>
+              </div>
               <h1>{title}</h1>
               <p>{description}</p>
               {/* <h3>{tech}</h3> */}
