@@ -35,4 +35,13 @@ export const WORK_DATA = [
     tech: ["Website Design", "Information Artichetecure", "Wireframe"],
     link: "",
   },
+  {
+    image: "/Rectangle 23 (6).png",
+    heading: "Responsive Design",
+    title: "Meet D' Expert",
+    description:
+      "We exist to help people get answers to questions they’ve not found. Either that they cannot ask them or they do not know to frame them, or the answ...",
+    tech: ["Mobile Design", "Figma", "Responsiveness", "UI Design"],
+    link: "",
+  },
 ];
