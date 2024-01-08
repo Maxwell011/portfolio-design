@@ -41,7 +41,7 @@ type WorkData = {
   title: string;
   image: string;
   description: string;
-  tech: object;
+  tech: string[];
   link: string;
 };
 
@@ -81,10 +81,27 @@ const WorkData = ({
                 <h2 className="text-white text-lg font-light">{heading}</h2>
               </div>
 
-              <h1 className="">{title}</h1>
-              <p>{description}</p>
-              {/* <h3>{tech}</h3> */}
-              <h3>{link}</h3>
+              <h1 className="overflow-hidden text-white text-ellipsis text-[40px] font-semibold leading-[160%] tracking-[0.8px]">
+                {title}
+              </h1>
+              <p className="overflow-hidden text-white text-ellipsis text-lg font-normal leading-[160%] tracking-[0.36px]">
+                {description}
+              </p>
+              <div className="">
+                {tech.map((e, index) => {
+                  return (
+                    <span
+                      key={index}
+                      className="text-base font-normal leading-[160%] tracking-[0.32px] text-white border px-4 py-1 rounded-lg border-solid border-[#DBA6F4] bg-[#1d444642] mr-4"
+                    >
+                      {e}
+                    </span>
+                  );
+                })}
+              </div>
+              <div className="w-[181px] h-[52px] px-[23.5px] py-[14.5px] rounded-lg bg-gold">
+                <h3>{link}</h3>
+              </div>
             </div>
           </div>
         </div>
