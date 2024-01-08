@@ -1,6 +1,6 @@
 export const WORK_DATA = [
   {
-    image: "/",
+    image: "/Rectangle 23.png",
     heading: "Landing Page Design",
     title: "NFT Marketplace",
     description:
