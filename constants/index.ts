@@ -26,4 +26,13 @@ export const WORK_DATA = [
     tech: ["Charity", "STW", "UI Design", "Global Audience"],
     link: "",
   },
+  {
+    image: "/Rectangle 23 (5).png",
+    heading: "Landing Page Design",
+    title: "Publishing House",
+    description:
+      "🌍 Safars Beyond Borders - SafarBookies transcends boundaries, bringing you stories from around the globe. Immerse yourself in cultures, experien...",
+    tech: ["Website Design", "Information Artichetecure", "Wireframe"],
+    link: "",
+  },
 ];
