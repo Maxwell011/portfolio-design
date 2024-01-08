@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { WORK_DATA } from "../../../constants/index";
 
 const Works = () => {
@@ -49,7 +50,35 @@ const WorkData = ({
   tech,
   link,
 }: WorkData) => {
-  return <div></div>;
+  return (
+    <>
+      <section>
+        {/* Image */}
+        <div>
+          <div className="">
+            <Image
+              src={image}
+              width={524}
+              height={360}
+              alt="work image"
+              className=""
+            />
+          </div>
+
+          {/* contents */}
+          <div>
+            <div>
+              <h2>{heading}</h2>
+              <h1>{title}</h1>
+              <p>{description}</p>
+              {/* <h3>{tech}</h3> */}
+              <h3>{link}</h3>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
+  );
 };
 
 export default Works;
