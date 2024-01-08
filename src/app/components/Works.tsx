@@ -6,7 +6,7 @@ import CrimsonEllipse from "../svg/CrimsonEllipse";
 
 const Works = () => {
   return (
-    <section>
+    <section className="">
       <div className="flex flex-col items-center gap-5">
         <div className="px-4 py-3 border-y-4 border-y-white border-t-4 border-t-white border-solid">
           <h1 className="uppercase text-[#fff] text-[40px] not-italic font-bold leading-[160%] ">
@@ -55,10 +55,10 @@ const WorkData = ({
 }: WorkData) => {
   return (
     <>
-      <section>
+      <section className="flex items-center justify-center">
         {/* Image */}
-        <div>
-          <div className="">
+        <div className="flex items-center gap-10">
+          <div className="backdrop-blur-[50px] w-[564px] h-[400px] rounded-3xl bg-[#32294c] flex items-center justify-center">
             <Image
               src={image}
               width={524}
@@ -72,7 +72,7 @@ const WorkData = ({
           <div>
             <div>
               {/* Heading */}
-              <div className="flex items-center gap-2.5">
+              <div className="flex items-center gap-2.5 mb-4">
                 <div className="flex gap-[5px]">
                   <GreenEllipse />
                   <YellowEllipse />
@@ -81,13 +81,13 @@ const WorkData = ({
                 <h2 className="text-white text-lg font-light">{heading}</h2>
               </div>
 
-              <h1 className="overflow-hidden text-white text-ellipsis text-[40px] font-semibold leading-[160%] tracking-[0.8px]">
+              <h1 className=" text-white text-[40px] font-semibold leading-[160%] tracking-[0.8px] mb-3">
                 {title}
               </h1>
-              <p className="overflow-hidden text-white text-ellipsis text-lg font-normal leading-[160%] tracking-[0.36px]">
+              <p className=" text-white  text-lg font-normal leading-[160%] tracking-[0.36px] w-[670px] h-[58px] mb-6">
                 {description}
               </p>
-              <div className="">
+              <div className="mb-12">
                 {tech.map((e, index) => {
                   return (
                     <span
