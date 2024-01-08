@@ -17,4 +17,13 @@ export const WORK_DATA = [
     tech: ["Mobile Design", "Website Design", "Responsive Design", "Figma"],
     link: "",
   },
+  {
+    image: "/Rectangle 23 (4).png",
+    heading: "Landing Page Design",
+    title: "Charity - (STW)",
+    description:
+      "Welcome to the official landing page of 'Save The World.' A dedicated charity organization committed to making a positive impact on the lives of...",
+    tech: ["Charity", "STW", "UI Design", "Global Audience"],
+    link: "",
+  },
 ];
