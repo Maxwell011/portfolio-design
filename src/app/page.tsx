@@ -32,8 +32,8 @@ export default function Home() {
         </div>
       </section>
 
-      <Works/>
-      <About/>
+      <Works />
+      <About />
     </main>
   );
 }
