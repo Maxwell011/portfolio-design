@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Works from "./components/Works";
+import About from "./components/About";
 
 export default function Home() {
   return (
@@ -32,6 +33,7 @@ export default function Home() {
       </section>
 
       <Works/>
+      <About/>
     </main>
   );
 }
