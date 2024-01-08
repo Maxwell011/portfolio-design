@@ -44,4 +44,22 @@ export const WORK_DATA = [
     tech: ["Mobile Design", "Figma", "Responsiveness", "UI Design"],
     link: "",
   },
+  {
+    image: "/Rectangle 23 (3).png",
+    heading: "Team Work/Case Study",
+    title: "Vitals - EHR Software",
+    description:
+      "Vitals is an electronic health record software with integrated blockchain technology which aims to revolutionize the management and security of...",
+    tech: ["Collaboration", "Responsiveness Design", "EHR Software"],
+    link: "",
+  },
+  {
+    image: "/Rectangle 23 (2).png",
+    heading: "Case Study",
+    title: "AutoFixHub Website",
+    description:
+      "AutoFixHub is a car servicing and repair website is a one-stop platform designed to provide convenience and resources for car owners. It offers...",
+    tech: ["Website Design", "Information Architecture", "UI Design"],
+    link: "",
+  },
 ];
