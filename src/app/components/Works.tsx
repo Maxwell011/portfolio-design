@@ -48,6 +48,8 @@ const WorkData = ({
   description,
   tech,
   link,
-}: WorkData) => {};
+}: WorkData) => {
+  return <div></div>;
+};
 
 export default Works;
