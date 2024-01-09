@@ -20,7 +20,7 @@ export default function Home() {
         </h1>
         <p className="w-[935px] h-[87px] text-center text-lg font-normal leading-[160%] text-[#fff] font-plex mb-10">
           {" "}
-          I am a dedicated and enthusiastic product designer with a strong
+          I&quot;m a dedicated and enthusiastic product designer with a strong
           passion for creating user-centered experiences. While designing to
           solve problems, I focus on the need to deliver effective conversion
           and align projects with business goals and objectives.
