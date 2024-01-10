@@ -8,7 +8,7 @@ export default function Framer() {
         viewBox="0 0 40 60"
         fill="none"
       >
-        <g clip-path="url(#clip0_75_19750)">
+        <g clipPath="url(#clip0_75_19750)">
           <path
             d="M0 0H40V20H20L0 0ZM0 20H20L40 40H20V60L0 40V20Z"
             fill="white"
