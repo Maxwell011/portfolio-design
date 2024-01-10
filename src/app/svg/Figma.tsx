@@ -8,7 +8,7 @@ export default function Figma() {
         viewBox="0 0 40 60"
         fill="none"
       >
-        <g clip-path="url(#clip0_75_19728)">
+        <g clipPath="url(#clip0_75_19728)">
           <path
             d="M10 60C15.52 60 20 55.52 20 50V40H10C4.48 40 0 44.48 0 50C0 55.52 4.48 60 10 60Z"
             fill="#0ACF83"
