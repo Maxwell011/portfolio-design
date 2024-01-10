@@ -34,7 +34,7 @@ const About = () => {
               <Chain />
               <Chain />
             </div>
-            <div className="w-[530px] h-[100px] flex items-center gap-6 border px-[23px] py-5 rounded-2xl border-solid border-gold">
+            <div className="w-[530px] h-[100px] flex items-center gap-6 border px-[23px] py-5 rounded-2xl border-solid border-gold ml-20">
               <Figma />
               <CircleEllipse />
               <Adobexd />
