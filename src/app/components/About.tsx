@@ -1,4 +1,11 @@
 import Image from "next/image";
+import Chain from "../svg/chain";
+import CircleEllipse from "../svg/CircleEllipse";
+import Figma from "../svg/Figma";
+import Framer from "../svg/Framer";
+import Vscode from "../svg/Vscode";
+import Webflow from "../svg/Webflow";
+import Adobexd from "../svg/Adobexd";
 
 const About = () => {
   return (
@@ -12,15 +19,32 @@ const About = () => {
         <div className="w-[1240px] h-px bg-black"></div>
 
         <div className="flex justify-center items-center gap-10">
-          <div className="flex pl-20">
-            <div className="border w-[500px] h-[700px] rounded-3xl border-solid border-gold my-[30px]"></div>
-            <Image
-              src="/Rectangle 25.png"
-              width={500}
-              height={700}
-              alt="Stanley image"
-              className="rounded-3xl ml-[-516px] my-[30px]"
-            />
+          <div>
+            <div className="flex pl-20">
+              <div className="border w-[500px] h-[700px] rounded-3xl border-solid border-gold"></div>
+              <Image
+                src="/Rectangle 25.png"
+                width={500}
+                height={700}
+                alt="Stanley image"
+                className="rounded-3xl ml-[-516px] mb-[30px]"
+              />
+            </div>
+            <div className="flex justify-around gap-[30px] ml-20 mt-[-9px]">
+              <Chain />
+              <Chain />
+            </div>
+            <div className="w-[530px] h-[100px] flex items-center gap-6 border px-[23px] py-5 rounded-2xl border-solid border-gold">
+              <Figma />
+              <CircleEllipse />
+              <Adobexd />
+              <CircleEllipse />
+              <Vscode />
+              <CircleEllipse />
+              <Framer />
+              <CircleEllipse />
+              <Webflow />
+            </div>
           </div>
 
           <div className="">
