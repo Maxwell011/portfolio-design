@@ -2,6 +2,7 @@ import Image from "next/image";
 import Works from "./components/Works";
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -36,6 +37,7 @@ export default function Home() {
       <Works />
       <About />
       <Contact/>
+      <Footer/>
     </main>
   );
 }
