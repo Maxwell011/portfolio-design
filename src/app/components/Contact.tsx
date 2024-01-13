@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <>
-      <section>
+      <section className="flex items-center flex-col">
         <div className="px-4 py-3 border-y-4 border-y-white border-t-4 border-t-white border-solid">
           <h1 className="text-white text-[40px] font-bold leading-[160%]">
             CONTACT ME
@@ -26,8 +26,20 @@ const Contact = () => {
         <label className="text-white text-lg not-italic font-normal leading-[160%]">
           Email
         </label>
-        <input type="text" name="" id="" />
-        <label>Message</label>
+        <input
+          type="text"
+          name=""
+          id=""
+          className="border flex w-[553px] h-[52px] items-center gap-2.5 px-4 py-2.5 rounded-lg bg-[#183135] border-solid border-[#9E9E9E]"
+          placeholder="Your email address"
+        />
+        <label className="text-white text-lg font-normal leading-[160%]">
+          Message
+        </label>
+        <textarea
+          className="flex w-[553px] h-40 items-start gap-2.5 px-4 py-[15.5px] rounded-lg border-solid border-[#9E9E9E] bg-[#183135]"
+          placeholder="Type your message here"
+        ></textarea>
       </section>
     </>
   );
