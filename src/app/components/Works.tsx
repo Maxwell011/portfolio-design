@@ -19,7 +19,7 @@ const Works = () => {
           my commitment to excellence and my ability to unique Approaches
         </p>
       </div>
-      <div className="">
+      <div className="flex flex-col gap-10">
         {WORK_DATA.map((works) => (
           <WorkData
             key={works.title}
