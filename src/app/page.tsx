@@ -34,6 +34,7 @@ export default function Home() {
           </button>
         </div>
       </section>
+      <Available />
 
       <Works />
       <About />
