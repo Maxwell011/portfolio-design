@@ -40,7 +40,7 @@ const Contact = () => {
           className="flex w-[553px] h-40 items-start gap-2.5 px-4 py-[15.5px] rounded-lg border-solid border-[#9E9E9E] bg-[#183135]"
           placeholder="Type your message here"
         ></textarea>
-        <div className="flex justify-center items-center gap-2 self-stretch px-[23.5px] py-[14.5px] rounded-lg bg-gold">
+        <div className="flex justify-center items-center gap-2 px-[23.5px] py-[14.5px] rounded-lg bg-gold w-[553px] h-[52px]">
           <button className="text-black text-lg font-semibold tracking-[0.36px] uppercase">
             Send Message
           </button>
