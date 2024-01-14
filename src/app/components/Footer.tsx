@@ -5,7 +5,7 @@ import Dribble from "../svg/Dribble";
 export default function Footer() {
   return (
     <>
-      <section className="h-[204px] bg-black">
+      <section className="h-[130px] bg-black inline-flex flex-col justify-center items-start gap-12 pb-12">
         <div className="flex gap-[25px]">
           <h2 className="text-white text-2xl font-medium leading-[160%]">
             Socials:
