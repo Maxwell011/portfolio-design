@@ -57,7 +57,6 @@ const WorkData = ({
   return (
     <>
       <section className="flex items-center justify-center">
-        {/* Image */}
         <div className="flex items-center gap-10">
           <div className="backdrop-blur-[50px] w-[564px] h-[400px] rounded-3xl bg-[#32294c] flex items-center justify-center">
             <Image
@@ -69,10 +68,8 @@ const WorkData = ({
             />
           </div>
 
-          {/* contents */}
           <div>
             <div>
-              {/* Heading */}
               <div className="flex items-center gap-2.5 mb-4">
                 <div className="flex gap-[5px]">
                   <GreenEllipse />
