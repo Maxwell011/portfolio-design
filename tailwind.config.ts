@@ -25,6 +25,8 @@ const config: Config = {
       grapevine: "#dba6f4",
       vine: "#a981fe",
       white: "#FFFFFF",
+      line: "#081F20",
+      abyss: "#041f24",
     },
   },
   plugins: [],

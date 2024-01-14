@@ -18,8 +18,9 @@ const Works = () => {
           to creating user-centered experience. Each project is a testament to
           my commitment to excellence and my ability to unique Approaches
         </p>
+        <div className="w-[1240px] h-px bg-[#081f20] my-10"></div>
       </div>
-      <div className="">
+      <div className="flex flex-col gap-10">
         {WORK_DATA.map((works) => (
           <WorkData
             key={works.title}
@@ -56,7 +57,6 @@ const WorkData = ({
   return (
     <>
       <section className="flex items-center justify-center">
-        {/* Image */}
         <div className="flex items-center gap-10">
           <div className="backdrop-blur-[50px] w-[564px] h-[400px] rounded-3xl bg-[#32294c] flex items-center justify-center">
             <Image
@@ -68,10 +68,8 @@ const WorkData = ({
             />
           </div>
 
-          {/* contents */}
           <div>
             <div>
-              {/* Heading */}
               <div className="flex items-center gap-2.5 mb-4">
                 <div className="flex gap-[5px]">
                   <GreenEllipse />

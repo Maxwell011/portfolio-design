@@ -16,7 +16,7 @@ const About = () => {
             ABOUT ME
           </h1>
         </div>
-        <div className="w-[1240px] h-px bg-black"></div>
+        <div className="w-[1240px] h-px bg-[#081f20] my-10"></div>
 
         <div className="flex justify-center items-center gap-10">
           <div>
