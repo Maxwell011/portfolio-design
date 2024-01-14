@@ -18,6 +18,7 @@ const Works = () => {
           to creating user-centered experience. Each project is a testament to
           my commitment to excellence and my ability to unique Approaches
         </p>
+        <div className="w-[1240px] h-px bg-[#081f20] my-10"></div>
       </div>
       <div className="flex flex-col gap-10">
         {WORK_DATA.map((works) => (
