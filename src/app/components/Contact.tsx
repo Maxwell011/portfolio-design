@@ -1,13 +1,13 @@
 const Contact = () => {
   return (
     <>
-      <section className="flex items-center flex-col">
+      <section className="flex items-center flex-col bg-abyss">
         <div className="px-4 py-3 border-y-4 border-y-white border-t-4 border-t-white border-solid">
-          <h1 className="text-white text-[40px] font-bold leading-[160%]">
+          <h1 className="text-white text-[40px] font-bold leading-[160%] ">
             CONTACT ME
           </h1>
         </div>{" "}
-        <p className="text-white text-lg font-medium">
+        <p className="text-white text-lg font-medium  mt-5">
           Let&apos s connect and discuss how I can be an asset to your team.
           I&apos m here and ready to contribute.
         </p>
