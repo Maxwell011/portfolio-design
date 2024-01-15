@@ -35,7 +35,7 @@ const Nav = () => {
               <Link href="/">Work</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[115px]">
-              <Link href="">About</Link>
+              <Link href="#about">About</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[129px]">
               <Link href="">Contact</Link>
