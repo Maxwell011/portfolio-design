@@ -32,13 +32,13 @@ const Nav = () => {
               <Link href="/">Home</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
-              <Link href="/">Work</Link>
+              <Link href="/#work">Work</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[115px]">
               <Link href="#about">About</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[129px]">
-              <Link href="">Contact</Link>
+              <Link href="#contact">Contact</Link>
             </li>
           </ul>
         </div>
