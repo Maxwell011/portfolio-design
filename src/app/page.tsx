@@ -7,7 +7,7 @@ import Available from "./components/Available";
 
 export default function Home() {
   return (
-    <main className=" bg-black ">
+    <main className=" bg-black" id="top">
       <section className="flex flex-col items-center pt-[60px]">
         <Image
           src="/Profile Image.png"
