@@ -1,3 +1,6 @@
+import Link from "next/link";
+import ArrowUp from "../svg/ArrowUp";
+
 const Contact = () => {
   return (
     <>
@@ -54,6 +57,11 @@ const Contact = () => {
           <button className="text-black text-lg font-semibold tracking-[0.36px] uppercase ">
             Send Message
           </button>
+        </div>
+        <div className="flex w-[60px] h-[60px] justify-center items-center p-2.5 rounded-[100px] bg-white ml-[80rem]">
+          <Link href="/#top">
+            <ArrowUp />
+          </Link>
         </div>
       </section>
     </>
