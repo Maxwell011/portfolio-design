@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Linkedin from "../svg/Linkedin";
 import Twitter from "../svg/Twitter";
 import Dribble from "../svg/Dribble";
@@ -28,16 +29,16 @@ const Nav = () => {
         <div>
           <ul className="flex gap-6">
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[114px]">
-              Home
+              <Link href="/">Home</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
-              Work
+              <Link href="/">Work</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[115px]">
-              About
+              <Link href="">About</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[129px]">
-              Contact
+              <Link href="">Contact</Link>
             </li>
           </ul>
         </div>
