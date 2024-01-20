@@ -98,7 +98,9 @@ const WorkData = ({
                 })}
               </div>
               <div className="w-[181px] h-[52px] px-[23.5px] py-[14.5px] rounded-lg bg-gold">
-                <h3 className="flex items-center justify-center text-black font-medium tracking-[0.36px] uppercase">View Project{link}</h3>
+                <button className="flex items-center justify-center text-black font-medium tracking-[0.36px] uppercase">
+                  View Project{link}
+                </button>
               </div>
             </div>
           </div>
