@@ -32,7 +32,7 @@ export const WORK_DATA = [
     title: "Publishing House",
     description:
       "🌍 Safars Beyond Borders - SafarBookies transcends boundaries, bringing you stories from around the globe. Immerse yourself in cultures, experien...",
-    tech: ["Website Design", "Information Artichetecure", "Wireframe"],
+    tech: ["Website Design", "Information Architecture", "Wireframe"],
     link: "/",
   },
   {
