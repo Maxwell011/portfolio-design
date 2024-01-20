@@ -98,7 +98,7 @@ const WorkData = ({
                 })}
               </div>
               <div className="w-[181px] h-[52px] px-[23.5px] py-[14.5px] rounded-lg bg-gold">
-                <h3>View link{link}</h3>
+                <h3>View Project{link}</h3>
               </div>
             </div>
           </div>
