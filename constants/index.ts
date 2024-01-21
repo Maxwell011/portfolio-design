@@ -15,7 +15,7 @@ export const WORK_DATA = [
     description:
       "Welcome to our one-stop online store for all your football needs! We offer a wide range of high-quality football equipment, including jerseys, shin pad...",
     tech: ["Mobile Design", "Website Design", "Responsive Design", "Figma"],
-    link: "",
+    link: "/Quickshop",
   },
   {
     image: "/Rectangle 23 (4).png",
