@@ -51,7 +51,7 @@ export const WORK_DATA = [
     description:
       "Vitals is an electronic health record software with integrated blockchain technology which aims to revolutionize the management and security of...",
     tech: ["Collaboration", "Responsiveness Design", "EHR Software"],
-    link: "",
+    link: "/Vitals",
   },
   {
     image: "/Rectangle 23 (2).png",
