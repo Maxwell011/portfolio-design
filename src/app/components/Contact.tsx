@@ -1,7 +1,13 @@
+import Link from "next/link";
+import ArrowUp from "../svg/ArrowUp";
+
 const Contact = () => {
   return (
     <>
-      <section className="flex items-center flex-col bg-abyss mt-20 py-20">
+      <section
+        className="flex items-center flex-col bg-abyss mt-20 py-20"
+        id="contact"
+      >
         <div className="px-4 py-3 border-y-4 border-y-white border-t-4 border-t-white border-solid">
           <h1 className="text-white text-[40px] font-bold leading-[160%] ">
             CONTACT ME
@@ -51,6 +57,11 @@ const Contact = () => {
           <button className="text-black text-lg font-semibold tracking-[0.36px] uppercase ">
             Send Message
           </button>
+        </div>
+        <div className="flex w-[60px] h-[60px] justify-center items-center p-2.5 rounded-[100px] bg-white ml-[80rem]">
+          <Link href="/#top">
+            <ArrowUp />
+          </Link>
         </div>
       </section>
     </>

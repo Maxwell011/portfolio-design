@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Linkedin from "../svg/Linkedin";
 import Twitter from "../svg/Twitter";
 import Dribble from "../svg/Dribble";
@@ -28,24 +29,24 @@ const Nav = () => {
         <div>
           <ul className="flex gap-6">
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[114px]">
-              Home
+              <Link href="/">Home</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[108px]">
-              Work
+              <Link href="/#work">Work</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[115px]">
-              About
+              <Link href="#about">About</Link>
             </li>
             <li className="text-lg gap-2.5 px-8 py-[5px] rounded-lg bg-[#051819] text-[#FFFFFF] h-[39px] w-[129px]">
-              Contact
+              <Link href="#contact">Contact</Link>
             </li>
           </ul>
         </div>
 
         <div className="h-[52px] w-[327px] px-6 py-2.5 rounded-lg border-2 border-solid border-[#CDAF75]">
-          <h2 className=" text-xl font-normal leading-[normal] tracking-[0.4px] underline text-[#fff]">
+          <Link href="" className=" text-xl font-normal leading-[normal] tracking-[0.4px] underline text-[#fff]">
             ofomastanley007@gmail.com
-          </h2>
+          </Link>
         </div>
       </section>
     </>

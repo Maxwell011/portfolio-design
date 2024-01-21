@@ -2,12 +2,11 @@ import Image from "next/image";
 import Works from "./components/Works";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Footer from "./components/Footer";
 import Available from "./components/Available";
 
 export default function Home() {
   return (
-    <main className=" bg-black ">
+    <main className=" bg-black" id="top">
       <section className="flex flex-col items-center pt-[60px]">
         <Image
           src="/Profile Image.png"
@@ -39,7 +38,6 @@ export default function Home() {
       <Works />
       <About />
       <Contact />
-      <Footer />
     </main>
   );
 }
