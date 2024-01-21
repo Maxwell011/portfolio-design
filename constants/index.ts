@@ -33,7 +33,7 @@ export const WORK_DATA = [
     description:
       "🌍 Safars Beyond Borders - SafarBookies transcends boundaries, bringing you stories from around the globe. Immerse yourself in cultures, experien...",
     tech: ["Website Design", "Information Architecture", "Wireframe"],
-    link: "/",
+    link: "/PublishingHouse",
   },
   {
     image: "/Rectangle 23 (6).png",
