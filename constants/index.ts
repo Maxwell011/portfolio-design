@@ -24,7 +24,7 @@ export const WORK_DATA = [
     description:
       "Welcome to the official landing page of 'Save The World.' A dedicated charity organization committed to making a positive impact on the lives of...",
     tech: ["Charity", "STW", "UI Design", "Global Audience"],
-    link: "",
+    link: "/charity",
   },
   {
     image: "/Rectangle 23 (5).png",
