@@ -60,6 +60,6 @@ export const WORK_DATA = [
     description:
       "AutoFixHub is a car servicing and repair website is a one-stop platform designed to provide convenience and resources for car owners. It offers...",
     tech: ["Website Design", "Information Architecture", "UI Design"],
-    link: "",
+    link: "/Autofixhub",
   },
 ];
