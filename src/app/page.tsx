@@ -2,7 +2,6 @@ import Image from "next/image";
 import Works from "./components/Works";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Footer from "./components/Footer";
 import Available from "./components/Available";
 
 export default function Home() {
@@ -39,7 +38,6 @@ export default function Home() {
       <Works />
       <About />
       <Contact />
-      <Footer />
     </main>
   );
 }
