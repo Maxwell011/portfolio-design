@@ -3,6 +3,7 @@ import { WORK_DATA } from "../../../constants/index";
 import GreenEllipse from "../svg/GreenEllipse";
 import YellowEllipse from "../svg/YellowEllipse";
 import CrimsonEllipse from "../svg/CrimsonEllipse";
+import Link from "next/link";
 
 const Works = () => {
   return (
@@ -98,9 +99,12 @@ const WorkData = ({
                 })}
               </div>
               <div className="w-[181px] h-[52px] px-[23.5px] py-[14.5px] rounded-lg bg-gold">
-                <button className="flex items-center justify-center text-black font-medium tracking-[0.36px] uppercase">
-                  View Project{link}
-                </button>
+                <Link
+                  href={link}
+                  className="flex items-center justify-center text-black font-medium tracking-[0.36px] uppercase"
+                >
+                  View Project
+                </Link>
               </div>
             </div>
           </div>
