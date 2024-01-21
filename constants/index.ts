@@ -42,7 +42,7 @@ export const WORK_DATA = [
     description:
       "We exist to help people get answers to questions they’ve not found. Either that they cannot ask them or they do not know to frame them, or the answ...",
     tech: ["Mobile Design", "Figma", "Responsiveness", "UI Design"],
-    link: "",
+    link: "/Expert",
   },
   {
     image: "/Rectangle 23 (3).png",
