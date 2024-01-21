@@ -6,7 +6,7 @@ export const WORK_DATA = [
     description:
       "💎 Own a Piece of the Future: Imagine owning a digital masterpiece that's as unique as your fingerprint. With NFTs, you can acquire digital assets th...",
     tech: ["UI Design", "Prototyping", "NFT", "Collections", "Cryptocurrency"],
-    link: "",
+    link: "/market",
   },
   {
     image: "/Rectangle 23 (1).png",
