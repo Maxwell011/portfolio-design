@@ -21,8 +21,8 @@ export default function Vector4() {
             y2="66.4607"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stop-color="#BFF0FF" />
-            <stop offset="1" stop-color="#82B4FF" />
+            <stop stopColor="#BFF0FF" />
+            <stop offset="1" stopColor="#82B4FF" />
           </linearGradient>
         </defs>
       </svg>
