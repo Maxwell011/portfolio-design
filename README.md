@@ -1,4 +1,4 @@
-This is a [Next.js]
+
 
 ## Getting Started
 
