@@ -11,32 +11,34 @@ export default function MarketPlace() {
         Munmba, your gateway to the exciting universe of Non-Fungible Tokens
         (NFTs) – where every creation tells a unique story.
       </p>
+      {/* image */}
       <div>
         <div>
           <h2>Task</h2>
           <p>
-            Create a user flow for users to access an ecommerce website and view
-            product details. Make it mobile responsive.
+            Design a landing page that aligns with a brand look and feel.
+            Consistent branding fosters trust and recognition among users.
           </p>
         </div>
         <div>
           <h2>Result</h2>
           <p>
-            Designed both screens for mobile and desktop to ensure ease of use
-            and consistent user experience for users as well as wider audience
-            reach and improved conversion rate for the business.{" "}
+            Designed a cohesive and consistent experience that reflects the
+            brand identity, values, and messaging. A visually appealing and
+            effective landing page that resonates with the target audience and
+            reinforces the brand presence.
           </p>
         </div>
         <div>
           <h2>Duration</h2>
-          <p>2 Days</p>
+          <p>1 Day</p>
           <h2>Role</h2>
           <p>UI/UX Designer</p>
         </div>
       </div>
-      <h2>Desktop Screens</h2>
+      <h2></h2>
       {/* image */}
-      <h2>Mobile Screens</h2>
+      <h2>Full landing page design</h2>
       {/* image */}
       <h3>Check out</h3>
       <h3>other projects</h3>{" "}
