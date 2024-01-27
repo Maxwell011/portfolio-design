@@ -89,6 +89,13 @@ export default function Vitals() {
         to the unique demands of healthcare professionals and administrators.
       </p>
       {/* empathy image */}
+      <h2>IDEATION & Brainstorming</h2>
+      <p>
+        This is the point where we started sharing solution ideas. We used HMW
+        questions to explore different angles of the problem. These questions
+        are typically framed as open-ended challenges. We were informed by the
+        insights gained from the empathy map.
+      </p>
     </section>
   );
 }
