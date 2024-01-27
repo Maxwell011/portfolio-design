@@ -35,7 +35,7 @@ export default function MeetExpert() {
           <h2>Duration</h2>
           <p>6 Days</p>
           <h2>Role</h2>
-          <p>Moblie Responsive Designer</p>
+          <p>Mobile Responsive Designer</p>
         </div>
       </div>
       <h2>Overview</h2>
