@@ -16,21 +16,31 @@ export default function QuickShop() {
         <div>
           <h2>Task</h2>
           <p>
-            Create an Electronic Medical Record software that challenges the
-            manual method of documenting patient’s health record.
+            Create a user flow for users to access an ecommerce website and view
+            product details. Make it mobile responsive.
           </p>
         </div>
         <div>
           <h2>Result</h2>
-          <p></p>
+          <p>
+            Designed both screens for mobile and desktop to ensure ease of use
+            and consistent user experience for users as well as wider audience
+            reach and improved conversion rate for the business.{" "}
+          </p>
         </div>
         <div>
           <h2>Duration</h2>
-          <p>8 Weeks</p>
+          <p>2 Days</p>
           <h2>Role</h2>
-          <p>UI/UX Designer, Design Lead, Sprint Member</p>
+          <p>UI/UX Designer</p>
         </div>
       </div>
+      <h2>Desktop Screens</h2>
+      {/* image */}
+      <h2>Mobile Screens</h2>
+      {/* image */}
+      <h3>Check out</h3>
+      <h3>other projects</h3>
     </section>
   );
 }
