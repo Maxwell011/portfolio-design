@@ -2,40 +2,49 @@ export default function MeetExpert() {
   return (
     <section>
       {" "}
-      <h1>Meet D Experts</h1>
-      <p>
-        We exist to help people get answers to questions they’ve not found.
-        Either that they cannot ask them or they do not know to frame them, or
-        the answers are not framed well. Either that they cannot ask them or
-        they do not know to frame them, or the answers are not framed well.
-      </p>
+      <h1>REVAMPING Autofixhub</h1>
       {/* image */}
       <div>
         <div>
           <h2>Task</h2>
           <p>
-            With the existing desktop screen for the product “Meet D Expert,
-            design a mobile responsiveness for users to seamlessly access and
-            engage with our product on their smartphones, whether you on the go
-            or relaxing at home.
+            Design an auto repair website where car owners can get professional
+            solutions for their car problems. This website should address user
+            pain points through research and also serve a specific target
+            audience.
+          </p>
+        </div>
+        <div>
+          <h2>The Product</h2>
+          <p>
+            AutoFixHub is a network of mechanics committed to revolutionizing
+            the car repair experience, for car owners. Our goal is to offer a
+            expert solution for all your vehicle maintenance and repair
+            requirements. Through AutoFixHub you can effortlessly connect with
+            certified mechanics receive pricing estimates and easily arrange
+            appointments that suit your schedule. Every mechanic undergoes a
+            screening process that includes background checks, criminal record
+            checks and reference checks. Our focus is on empowering car owners
+            with solutions to ensure that you have a partner, for all your
+            automotive needs.
           </p>
         </div>
         <div>
           <h2>Result</h2>
           <ul>
-            <li>📈 Boosted Accessibility</li>
-            <li>🌐 Cross-Device Consistency</li>
-            <li>🔒 Security on Every Screen</li>
-            <li>🌍 Stay Connected, Anywhere</li>
-            <li>💡 Intuitive Interface</li>
-            <li>📱 Unmatched User Experience</li>
+            <li>User-Centric Design</li>
+            <li>Competitive Edge</li>
+            <li>24/7 Availability</li>
+            <li>Educational Resources</li>
+            <li>Improved Online Presence</li>
+            <li>Online Booking & Scheduling</li>
           </ul>
         </div>
         <div>
           <h2>Duration</h2>
-          <p>6 Days</p>
+          <p>3 Weeks, 4 days</p>
           <h2>Role</h2>
-          <p>Mobile Responsive Designer</p>
+          <p>Product Designer</p>
         </div>
       </div>
       <h2>Overview</h2>
