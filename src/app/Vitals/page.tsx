@@ -79,6 +79,16 @@ export default function Vitals() {
         the people who use them. Ultimately, empathy is the foundation for
         creating user experiences that leave a lasting positive impression.
       </p>
+      {/* User pesrona image */}
+      <h2>Empathy Map</h2>
+      <p>
+        This process helped inform the design of EMR software by providing a
+        comprehensive understanding of users, their needs, challenges, and
+        emotional states. This information guided the design process, ensuring
+        that the resulting software is user-centric, efficient, and empathetic
+        to the unique demands of healthcare professionals and administrators.
+      </p>
+      {/* empathy image */}
     </section>
   );
 }
