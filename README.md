@@ -19,6 +19,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Learn More
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 
-
-## Deploy on Vercel
-
