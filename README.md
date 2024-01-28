@@ -22,4 +22,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Deploy on Vercel
 
-Check out our [Next.js deployment documentation
