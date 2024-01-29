@@ -29,14 +29,16 @@ export default function MarketPlace() {
       </div>
       <div className="border flex w-[1240px] flex-col items-start rounded-3xl border-solid border-gold">
         <div className="flex flex-col items-start gap-3 self-stretch px-12 py-6 border-b-[#CDAF75] border-b border-solid">
-          <h2>Task</h2>
-          <p>
+          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+            Task
+          </h2>
+          <p className="text-white text-lg font-normal tracking-[0.36px]">
             Design a landing page that aligns with a brand look and feel.
             Consistent branding fosters trust and recognition among users.
           </p>
         </div>
         <div>
-          <h2>Result</h2>
+          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">Result</h2>
           <p>
             Designed a cohesive and consistent experience that reflects the
             brand identity, values, and messaging. A visually appealing and
