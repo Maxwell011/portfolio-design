@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function MarketPlace() {
   return (
     <section>
@@ -11,6 +13,13 @@ export default function MarketPlace() {
         Munmba, your gateway to the exciting universe of Non-Fungible Tokens
         (NFTs) – where every creation tells a unique story.
       </p>
+      <Image
+        src="/Rectangle 23.png"
+        width={1140}
+        height={815}
+        alt="work image"
+        className=""
+      />
       {/* image */}
       <div>
         <div>
