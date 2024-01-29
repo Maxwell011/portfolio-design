@@ -1,8 +1,8 @@
 export default function MarketPlace() {
   return (
     <section>
-      <h1>Munmba</h1>
-      <p>
+      <h1 className="text-[64px] font-bold uppercase">Munmba</h1>
+      <p className="text-white text-lg font-normal tracking-[0.36px]">
         💎 Own a Piece of the Future: Imagine owning a digital masterpiece that
         as unique as your fingerprint. With NFTs, you can acquire digital assets
         that are yours, and backed by blockchain technology. Discover the Future
