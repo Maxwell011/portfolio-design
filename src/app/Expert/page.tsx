@@ -2,7 +2,7 @@ export default function MeetExpert() {
   return (
     <section>
       {" "}
-      <h1>REVAMPING Autofixhub</h1>
+      <h1 className="text-[64px] font-bold uppercase">REVAMPING Autofixhub</h1>
       {/* image */}
       <div>
         <div>
