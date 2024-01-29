@@ -38,8 +38,10 @@ export default function MarketPlace() {
           </p>
         </div>
         <div>
-          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">Result</h2>
-          <p>
+          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+            Result
+          </h2>
+          <p className="text-white text-lg font-normal tracking-[0.36px]">
             Designed a cohesive and consistent experience that reflects the
             brand identity, values, and messaging. A visually appealing and
             effective landing page that resonates with the target audience and
@@ -47,10 +49,18 @@ export default function MarketPlace() {
           </p>
         </div>
         <div>
-          <h2>Duration</h2>
-          <p>1 Day</p>
-          <h2>Role</h2>
-          <p>UI/UX Designer</p>
+          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+            Duration
+          </h2>
+          <p className="text-white text-lg font-normal tracking-[0.36px]">
+            1 Day
+          </p>
+          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+            Role
+          </h2>
+          <p className="text-white text-lg font-normal tracking-[0.36px]">
+            UI/UX Designer
+          </p>
         </div>
       </div>
       <h2></h2>
