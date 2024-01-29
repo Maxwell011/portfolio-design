@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Chain from "../svg/chain";
 
 export default function MarketPlace() {
   return (
@@ -13,14 +14,19 @@ export default function MarketPlace() {
         Munmba, your gateway to the exciting universe of Non-Fungible Tokens
         (NFTs) – where every creation tells a unique story.
       </p>
-      <Image
-        src="/Rectangle 23.png"
-        width={1140}
-        height={815}
-        alt="work image"
-        className=""
-      />
-      {/* image */}
+      <div className="backdrop-blur-[50px] w-[564px] h-[400px] rounded-3xl bg-[#32294c] flex items-center justify-center">
+        <Image
+          src="/Rectangle 23.png"
+          width={1140}
+          height={815}
+          alt="work image"
+          className=""
+        />
+      </div>
+      <div className="flex">
+        <Chain />
+        <Chain />
+      </div>
       <div>
         <div>
           <h2>Task</h2>
