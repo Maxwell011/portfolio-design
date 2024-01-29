@@ -14,7 +14,7 @@ export default function MarketPlace() {
         Munmba, your gateway to the exciting universe of Non-Fungible Tokens
         (NFTs) – where every creation tells a unique story.
       </p>
-      <div className="backdrop-blur-[50px] w-[564px] h-[400px] rounded-3xl bg-[#32294c] flex items-center justify-center">
+      <div className="flex w-[1210px] h-[845px] justify-center items-center rounded-[40px] bg-[#233038]">
         <Image
           src="/Rectangle 23.png"
           width={1140}
