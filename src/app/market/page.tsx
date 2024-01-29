@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function MarketPlace() {
   return (
-    <section>
+    <section className="bg-black flex flex-col items-center justify-center text-center px-[100px] py-0">
       <h1 className="text-[64px] font-bold uppercase">Munmba</h1>
       <p className="text-white text-lg font-normal tracking-[0.36px]">
         💎 Own a Piece of the Future: Imagine owning a digital masterpiece that
