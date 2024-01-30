@@ -30,8 +30,10 @@ export default function Charity() {
       </div>
       <div>
         <div>
-          <h2>Task</h2>
-          <p>
+          <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+            Task
+          </h2>
+          <p className="text-white text-lg font-normal tracking-[0.36px]">
             With the existing desktop screen for the product “Meet D Expert,
             design a mobile responsiveness for users to seamlessly access and
             engage with our product on their smartphones, whether you are on the
