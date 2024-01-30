@@ -1,3 +1,6 @@
+import Image from "next/image";
+import Chain from "../svg/chain";
+
 export default function Charity() {
   return (
     <section>
