@@ -14,14 +14,16 @@ export default function Charity() {
         charitable initiatives, events, and opportunities for you to join us in
         making a difference.
       </p>
-      {/* image */}
-      <Image
-        src="/Rectangle 23 (4).png"
-        width={1140}
-        height={815}
-        alt="work image"
-        className=""
-      />
+      <div className="flex w-[1210px] h-[845px] justify-center items-center rounded-[40px] bg-[#233038]">
+        {" "}
+        <Image
+          src="/Rectangle 23 (4).png"
+          width={1140}
+          height={815}
+          alt="work image"
+          className=""
+        />
+      </div>
       <div>
         <div>
           <h2>Task</h2>
