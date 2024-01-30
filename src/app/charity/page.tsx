@@ -15,6 +15,13 @@ export default function Charity() {
         making a difference.
       </p>
       {/* image */}
+      <Image
+        src="/Rectangle 23 (4).png"
+        width={1140}
+        height={815}
+        alt="work image"
+        className=""
+      />
       <div>
         <div>
           <h2>Task</h2>
