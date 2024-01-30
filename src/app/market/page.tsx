@@ -23,7 +23,7 @@ export default function MarketPlace() {
           className=""
         />
       </div>
-      <div className="flex">
+      <div className="flex gap-[50rem]">
         <Chain />
         <Chain />
       </div>
