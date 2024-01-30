@@ -2,8 +2,8 @@ export default function Charity() {
   return (
     <section>
       {" "}
-      <h1>Save the world</h1>
-      <p>
+      <h1 className="text-[64px] font-bold uppercase">Save the world</h1>
+      <p className="text-white text-lg font-normal tracking-[0.36px]">
         Welcome to the official landing page of Save The World. A dedicated
         charity organization committed to making a positive impact on the lives
         of those in need. Our mission is to bring hope, support, and change to
