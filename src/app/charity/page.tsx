@@ -25,8 +25,8 @@ export default function Charity() {
         />
       </div>
       <div className="flex gap-[50rem]">
-        {/* <Chain />
-        <Chain /> */}
+        <Chain />
+        <Chain />
       </div>
       <div>
         <div>
