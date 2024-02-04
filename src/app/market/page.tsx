@@ -73,7 +73,9 @@ export default function MarketPlace() {
         alt="work image"
         className=""
       />
-      <h2 className="text-[40px] font-semibold tracking-[0.02em]">Full landing page design</h2>
+      <h2 className="text-[40px] font-semibold tracking-[0.02em]">
+        Full landing page design
+      </h2>
       <Image
         src="/Full-landing-page.png"
         width={1240}
@@ -81,8 +83,8 @@ export default function MarketPlace() {
         alt="Full landing page image"
         className=""
       />
-      <h3>Check out</h3>
-      <h3>other projects</h3>{" "}
+      <h3 className="text-lg font-medium">Check out</h3>
+      <h3 className="text-[40px] font-bold">other projects</h3>{" "}
     </section>
   );
 }
