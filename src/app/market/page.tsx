@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Chain from "../svg/chain";
 import Contact2 from "../components/contact2";
+import Available from "../components/Available";
 
 export default function MarketPlace() {
   return (
@@ -89,7 +90,9 @@ export default function MarketPlace() {
         <h3 className="text-lg font-medium text-white">Check out</h3>
         <h3 className="text-[40px] font-bold uppercase">other projects</h3>{" "}
       </section>
+      <Available />
       <Contact2 />
+      <Available />
     </section>
   );
 }
