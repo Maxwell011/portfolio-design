@@ -28,7 +28,7 @@ export default function MarketPlace() {
         <Chain />
       </div>
       <div className="border flex w-[1240px] flex-col items-start rounded-3xl border-solid border-gold">
-        <div className="border-b-[#CDAF75] border-b border-solid flex flex-col items-start gap-3 px-12 py-6">
+        <div className="border-b-[#CDAF75] border-b border-solid flex flex-col items-start gap-3 px-12 py-6   ">
           <div className="flex flex-col items-start gap-3 self-stretch px-12 py-6 border-b-[#CDAF75] border-b border-solid">
             <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
               Task
@@ -67,6 +67,13 @@ export default function MarketPlace() {
       </div>
       <h2></h2>
       {/* image */}
+      <Image
+        src="/Cover Presentation.png"
+        width={1140}
+        height={815}
+        alt="work image"
+        className=""
+      />
       <h2>Full landing page design</h2>
       {/* image */}
       <h3>Check out</h3>
