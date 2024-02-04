@@ -6,11 +6,13 @@ import Link from "next/link";
 export default function contact2() {
   return (
     <div>
-      <p>
+      <p className="text-lg font-normal text-white">
         Thank you for your time! 🙌 Your interest means a lot to me, and I am
         excited about the possibilities ahead. Looking forward to the next steps{" "}
       </p>
-      <h1>Let stay connected for future opportunities! 🌟 </h1>
+      <h1 className="text-[32px] font-medium leading-[51px]">
+        Let stay connected for future opportunities! 🌟{" "}
+      </h1>
       <div className="h-[52px] w-[327px] px-6 py-2.5 rounded-lg border-2 border-solid border-[#CDAF75]">
         <Link
           href=""
