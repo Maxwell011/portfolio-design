@@ -5,7 +5,7 @@ import Dribble from "../svg/Dribble";
 export default function Footer() {
   return (
     <>
-      <section className="h-[130px] w-full bg-black inline-flex flex-col justify-center items-start gap-12 pb-12">
+      <section className="h-[130px] w-full bg-black items-start gap-12 pb-12 flex flex-row justify-between p-[50px]">
         <div className="flex gap-[25px]">
           <h2 className="text-white text-2xl font-medium leading-[160%]">
             Socials:
@@ -25,12 +25,12 @@ export default function Footer() {
               <Twitter />
             </div>
           </div>
-          <div>
-            <p className="text-white text-lg font-normal">
-              ©2023 Stanley-Asokingz. All Rights Reserved
-            </p>
-          </div>
         </div>{" "}
+        <div>
+          <p className="text-white text-lg font-normal">
+            ©2023 Stanley-Asokingz. All Rights Reserved
+          </p>
+        </div>
       </section>
     </>
   );
