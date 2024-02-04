@@ -54,19 +54,23 @@ export default function MarketPlace() {
               </p>
             </div>
           </div>
-          <div>
-            <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
-              Duration
-            </h2>
-            <p className="text-white text-lg font-normal tracking-[0.36px]">
-              1 Day
-            </p>
-            <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
-              Role
-            </h2>
-            <p className="text-white text-lg font-normal tracking-[0.36px]">
-              UI/UX Designer
-            </p>
+          <div className="flex gap-[40rem] p-[15px]">
+            <div className="flex flex-col">
+              <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+                Duration
+              </h2>
+              <p className="text-white text-lg font-normal tracking-[0.36px]">
+                1 Day
+              </p>
+            </div>
+            <div className="flex flex-col">
+              <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+                Role
+              </h2>
+              <p className="text-white text-lg font-normal tracking-[0.36px]">
+                UI/UX Designer
+              </p>
+            </div>
           </div>
         </div>
         <h2></h2>
