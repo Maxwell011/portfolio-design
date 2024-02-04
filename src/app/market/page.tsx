@@ -84,8 +84,9 @@ export default function MarketPlace() {
         alt="Full landing page image"
         className=""
       />
-      <h3 className="text-lg font-medium">Check out</h3>
-      <h3 className="text-[40px] font-bold">other projects</h3> <Contact2 />
+      <h3 className="text-lg font-medium text-white">Check out</h3>
+      <h3 className="text-[40px] font-bold uppercase">other projects</h3>{" "}
+      <Contact2 />
     </section>
   );
 }
