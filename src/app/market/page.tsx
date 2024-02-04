@@ -66,7 +66,6 @@ export default function MarketPlace() {
         </div>
       </div>
       <h2></h2>
-      {/* image */}
       <Image
         src="/Cover Presentation.png"
         width={1140}
@@ -75,7 +74,13 @@ export default function MarketPlace() {
         className=""
       />
       <h2>Full landing page design</h2>
-      {/* image */}
+      <Image
+        src="/Full-landing-page.png"
+        width={1240}
+        height={4692}
+        alt="Full landing page image"
+        className=""
+      />
       <h3>Check out</h3>
       <h3>other projects</h3>{" "}
     </section>
