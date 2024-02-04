@@ -73,7 +73,7 @@ export default function MarketPlace() {
         alt="work image"
         className=""
       />
-      <h2>Full landing page design</h2>
+      <h2 className="text-[40px] font-semibold tracking-[0.02em]">Full landing page design</h2>
       <Image
         src="/Full-landing-page.png"
         width={1240}
