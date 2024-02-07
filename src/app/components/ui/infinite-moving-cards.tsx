@@ -2,6 +2,7 @@
 
 import { cn } from "../../utils/cn";
 import React, { useEffect, useState } from "react";
+import Image from "next/image";
 
 export const InfiniteMovingCards = ({
   items,
@@ -108,7 +109,13 @@ export const InfiniteMovingCards = ({
                     {item.name}
                   </span>
                   <span className=" text-sm leading-[1.6] text-gray-400 font-normal">
-                    {item.title}
+                    <Image
+                      src={item.title}
+                      width={140}
+                      height={215}
+                      alt="work image"
+                      className=""
+                    />
                   </span>
                 </span>
               </div>
