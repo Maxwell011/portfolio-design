@@ -2,7 +2,7 @@ import Image from "next/image";
 import Works from "./components/Works";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Available from "./components/Available";
+import InfiniteMovingCardsDemo from "./components/Available";
 
 export default function Home() {
   return (
@@ -33,7 +33,7 @@ export default function Home() {
           </button>
         </div>
       </section>
-      <Available />
+      <InfiniteMovingCardsDemo />
 
       <Works />
       <About />
