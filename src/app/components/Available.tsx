@@ -35,6 +35,7 @@ const testimonials = [
     title: "/Rectangle 23.png",
   },
 ];
+
 const projects = [
   {
     title: "/Rectangle 17 (4).png",
