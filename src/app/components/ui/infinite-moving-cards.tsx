@@ -12,7 +12,7 @@ export const InfiniteMovingCards = ({
   className,
 }: {
   items: {
-    name: string;
+    name?: string;
     title: string;
   }[];
   direction?: "left" | "right";
