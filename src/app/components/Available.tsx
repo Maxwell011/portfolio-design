@@ -37,18 +37,18 @@ const testimonials = [
 ];
 const projects = [
   {
-    title: "/Rectangle 17.png",
+    title: "/Rectangle 17 (4).png",
   },
   {
-    title: "/Rectangle 17 (a).png",
+    title: "/Rectangle 17 (3).png",
   },
   {
-    title: "/Rectangle 23.png",
+    title: "/Rectangle 17-orange.png",
   },
   {
-    title: "/Rectangle 23.png",
+    title: "/Rectangle 17 (1).png",
   },
   {
-    title: "/Rectangle 23.png",
+    title: "/Rectangle 17 (2).png",
   },
 ];
