@@ -12,11 +12,7 @@ export default function InfiniteMovingCardsDemo() {
           direction="left"
           speed="slow"
         />
-        <InfiniteMovingCards
-          items={testimonials}
-          direction="right"
-          speed="slow"
-        />
+        <InfiniteMovingCards items={projects} direction="right" speed="slow" />
       </div>
     </div>
   );
@@ -24,10 +20,27 @@ export default function InfiniteMovingCardsDemo() {
 
 const testimonials = [
   {
-    title: "/Rectangle 23.png",
+    title: "/Rectangle 23 (6).png",
+  },
+  {
+    title: "/Rectangle 17a.png",
+  },
+  {
+    title: "/Shinpads.png",
+  },
+  {
+    title: "/Tag Image.png",
   },
   {
     title: "/Rectangle 23.png",
+  },
+];
+const projects = [
+  {
+    title: "/Rectangle 17.png",
+  },
+  {
+    title: "/Rectangle 17 (a).png",
   },
   {
     title: "/Rectangle 23.png",
