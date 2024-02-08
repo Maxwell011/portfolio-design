@@ -12,7 +12,6 @@ export const InfiniteMovingCards = ({
   className,
 }: {
   items: {
-    quote: string;
     name: string;
     title: string;
   }[];
@@ -101,9 +100,9 @@ export const InfiniteMovingCards = ({
                 className="user-select-none -z-1 pointer-events-none absolute -left-0.5 -top-0.5 h-[calc(100%_+_4px)] w-[calc(100%_+_4px)]"
               ></div>
               <div className="relative z-20 mt-6 flex flex-row items-center">
-                <span className=" text-sm leading-[1.6] text-gray-400 font-normal">
+                {/* <span className="text-sm leading-[1.6] text-gray-400 font-normal">
                   {item.name}
-                </span>
+                </span> */}
                 <span className=" text-sm leading-[1.6] text-gray-400 font-normal">
                   <Image
                     src={item.title}
