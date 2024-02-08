@@ -87,7 +87,7 @@ export const InfiniteMovingCards = ({
       >
         {items.map((item, idx) => (
           <li
-            className="w-[350px] max-w-full relative rounded-2xl border border-b-0 flex-shrink-0 border-slate-700 px-8 py-6 md:w-[450px]"
+            className="max-w-full relative border-slate-700"
             style={{
               background:
                 "linear-gradient(180deg, var(--slate-800), var(--slate-900)",
@@ -102,8 +102,8 @@ export const InfiniteMovingCards = ({
               <span className=" text-sm leading-[1.6] text-gray-400 font-normal">
                 <Image
                   src={item.title}
-                  width={140}
-                  height={215}
+                  width={300}
+                  height={220}
                   alt="project image"
                   className=""
                 />
