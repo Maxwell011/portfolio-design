@@ -70,6 +70,13 @@ export default function QuickShop() {
         </div>
         <h2>Desktop Screens</h2>
         {/* image */}
+        <Image
+          src="/Frame-desktop-boots.png"
+          width={1140}
+          height={815}
+          alt="work image"
+          className=""
+        />
         <h2>Mobile Screens</h2>
         {/* image */}
         <h3>Check out</h3>
