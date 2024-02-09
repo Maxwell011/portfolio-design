@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function PublishingHouse() {
   return (
     <section>
@@ -38,8 +40,15 @@ export default function PublishingHouse() {
       {/* image */}
       <h2>Full landing page design</h2>
       {/* image */}
-      <h3>Check out</h3>
-      <h3>other projects</h3>{" "}
+      <Image
+        src="/Full publishing landing page .png"
+        width={1240}
+        height={3424}
+        alt="Full landing page image"
+        className=""
+      />
+      <h3 className="text-lg font-medium text-white">Check out</h3>
+      <h3 className="text-[40px] font-bold uppercase">other projects</h3>
     </section>
   );
 }
