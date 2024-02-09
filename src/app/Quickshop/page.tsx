@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Chain from "../svg/chain";
 
 export default function QuickShop() {
   return (
@@ -22,6 +23,10 @@ export default function QuickShop() {
           alt="work image"
           className=""
         />
+        <div className="flex gap-[50rem]">
+          <Chain />
+          <Chain />
+        </div>
         <div>
           <div>
             <h2>Task</h2>
