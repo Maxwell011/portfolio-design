@@ -78,10 +78,15 @@ export default function QuickShop() {
           alt="Desktop screen image"
           className=""
         />
-        <h2>Mobile Screens</h2>
-        {/* image */}
-        <h3>Check out</h3>
-        <h3>other projects</h3>
+        <Image
+          src="/Frame - mobile -screen-boots.png"
+          width={1240}
+          height={2157}
+          alt="Mobile screen image"
+          className=""
+        />
+        <h3 className="text-lg font-medium text-white">Check out</h3>
+        <h3 className="text-[40px] font-bold uppercase">other projects</h3>
       </section>
     </section>
   );
