@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Chain from "../svg/chain";
 
 export default function PublishingHouse() {
   return (
@@ -13,6 +14,17 @@ export default function PublishingHouse() {
           international literature.
         </p>
         {/* image */}
+        <Image
+          src="/Publishing Cover Presentation.png"
+          width={1240}
+          height={872}
+          alt="work image"
+          className=""
+        />
+        <div className="flex gap-[50rem]">
+          <Chain />
+          <Chain />
+        </div>
         <div>
           <div>
             <h2>Task</h2>
