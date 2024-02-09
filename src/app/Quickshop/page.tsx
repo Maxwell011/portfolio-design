@@ -30,25 +30,31 @@ export default function QuickShop() {
         <div className="border flex w-[1240px] flex-col items-start rounded-3xl border-solid border-gold">
           <div className="border-b-[#CDAF75] border-b border-solid flex flex-col items-start gap-3 px-12 py-6">
             <div className="flex flex-col items-start gap-3 self-stretch px-12 py-6 border-b-[#CDAF75] border-b border-solid">
-              <h2>Task</h2>
-              <p>
+              <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+                Task
+              </h2>
+              <p className="text-white text-lg font-normal tracking-[0.36px]">
                 Create a user flow for users to access an ecommerce website and
                 view product details. Make it mobile responsive.
               </p>
             </div>
             <div>
-              <h2>Result</h2>
-              <p>
+              <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
+                Result
+              </h2>
+              <p className="text-white text-lg font-normal tracking-[0.36px]">
                 Designed both screens for mobile and desktop to ensure ease of
                 use and consistent user experience for users as well as wider
                 audience reach and improved conversion rate for the business.{" "}
               </p>
             </div>
-            <div>
-              <h2>Duration</h2>
-              <p>2 Days</p>
-              <h2>Role</h2>
-              <p>UI/UX Designer</p>
+            <div className="flex gap-[40rem] p-[15px]">
+              <div className="flex flex-col">
+                <h2>Duration</h2>
+                <p>2 Days</p>
+                <h2>Role</h2>
+                <p>UI/UX Designer</p>
+              </div>
             </div>
           </div>
         </div>
