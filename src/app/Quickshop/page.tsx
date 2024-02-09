@@ -15,6 +15,13 @@ export default function QuickShop() {
           offer them at competitive prices. Shop with us today and get ready to
           dominate the field!
         </p>
+        <Image
+          src="/Cover Presentation - Football.png"
+          width={1140}
+          height={815}
+          alt="work image"
+          className=""
+        />
         <div>
           <div>
             <h2>Task</h2>
