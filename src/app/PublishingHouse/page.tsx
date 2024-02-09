@@ -39,7 +39,13 @@ export default function PublishingHouse() {
           </div>
         </div>
         <h2></h2>
-        {/* image */}
+        <Image
+          src="/Books Categories.png"
+          width={1240}
+          height={2157}
+          alt="Book categories image"
+          className=""
+        />
         <h2>Full landing page design</h2>
         <Image
           src="/Full publishing landing page.png"
