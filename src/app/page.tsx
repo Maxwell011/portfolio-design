@@ -37,7 +37,9 @@ export default function Home() {
       <InfiniteMovingCardsDemo />
       <Available />
       <Works />
+      <Available />
       <About />
+      <Available />
       <Contact />
     </main>
   );
