@@ -6,14 +6,13 @@ export default function PublishingHouse() {
     <section>
       <section className="bg-black flex flex-col items-center justify-center text-center px-[100px] py-0">
         {" "}
-        <h1>SAFAR-BOOKIES</h1>
-        <p>
+        <h1 className="text-[64px] font-bold uppercase">SAFAR-BOOKIES</h1>
+        <p className="text-white text-lg font-normal tracking-[0.36px]">
           🌍 Safars Beyond Borders SafarBookies transcends boundaries, bringing
           you stories from around the globe. Immerse yourself in cultures,
           experiences, and perspectives through our diverse selection of
           international literature.
         </p>
-        {/* image */}
         <Image
           src="/Publishing Cover Presentation.png"
           width={1240}
