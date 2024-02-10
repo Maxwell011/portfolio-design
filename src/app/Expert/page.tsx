@@ -13,6 +13,10 @@ export default function MeetExpert() {
         alt="work image"
         className=""
       />
+      <div className="flex gap-[50rem]">
+        <Chain />
+        <Chain />
+      </div>
       <div>
         <div>
           <h2>Task</h2>
