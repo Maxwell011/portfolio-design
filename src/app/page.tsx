@@ -2,7 +2,7 @@ import Image from "next/image";
 import Works from "./components/Works";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import InfiniteMovingCardsDemo from "./components/Available";
+import InfiniteMovingCardsDemo from "./components/Projects";
 
 export default function Home() {
   return (
