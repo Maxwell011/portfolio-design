@@ -3,6 +3,7 @@ import Works from "./components/Works";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import InfiniteMovingCardsDemo from "./components/Projects";
+import Available from "./components/Available";
 
 export default function Home() {
   return (
@@ -34,7 +35,7 @@ export default function Home() {
         </div>
       </section>
       <InfiniteMovingCardsDemo />
-
+      <Available />
       <Works />
       <About />
       <Contact />
