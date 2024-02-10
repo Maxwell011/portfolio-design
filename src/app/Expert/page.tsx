@@ -6,7 +6,13 @@ export default function MeetExpert() {
     <section>
       {" "}
       <h1 className="text-[64px] font-bold uppercase">REVAMPING Autofixhub</h1>
-      {/* image */}
+      <Image
+        src="/Cover page Expert.png"
+        width={1140}
+        height={815}
+        alt="work image"
+        className=""
+      />
       <div>
         <div>
           <h2>Task</h2>
