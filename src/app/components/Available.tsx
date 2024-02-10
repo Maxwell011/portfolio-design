@@ -1,8 +1,16 @@
+import Image from "next/image";
+
 export default function Available() {
   return (
     <section>
       <section>
-        <h1>I am available for job</h1>
+        <Image
+          src="/Cade.png"
+          width={1500}
+          height={60}
+          alt="work image"
+          className=""
+        />
       </section>
     </section>
   );
