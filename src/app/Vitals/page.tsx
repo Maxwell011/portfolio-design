@@ -1,7 +1,7 @@
 export default function Vitals() {
   return (
     <section>
-      <h1>Vitals - Emr Software</h1>
+      <h1 className="text-[64px] font-bold uppercase">Vitals - Emr Software</h1>
       <p>
         Vitals is an electronic medical record software with integrated
         blockchain technology which aims to revolutionize the management and
