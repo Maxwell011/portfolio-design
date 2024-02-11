@@ -16,13 +16,13 @@ export default function QuickShop() {
           offer them at competitive prices. Shop with us today and get ready to
           dominate the field!
         </p>
-        <Image
+        {/* <Image
           src="/Cover Presentation - Football.png"
           width={1140}
           height={815}
-          alt="work image"
+          alt="Project image"
           className=""
-        />
+        /> */}
         <div className="flex gap-[50rem]">
           <Chain />
           <Chain />
