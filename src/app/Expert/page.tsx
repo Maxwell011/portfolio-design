@@ -84,7 +84,6 @@ export default function MeetExpert() {
           </div>
         </div>
         <h2>Overview</h2>
-        {/* image */}
         <h2>Full landing page design</h2>
         {/* image */}
         <h3>Check out</h3>
