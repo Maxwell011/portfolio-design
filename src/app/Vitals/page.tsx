@@ -18,7 +18,6 @@ export default function Vitals() {
           to have greater control over their medical records.
         </p>
         {/* Image Cover */}
-
         <div>
           <div>
             <h2>Task</h2>
@@ -42,7 +41,6 @@ export default function Vitals() {
             <p>UI/UX Designer, Design Lead, Sprint Member</p>
           </div>
         </div>
-
         <h2>Problem Statement</h2>
         <p>
           The healthcare industry faces challenges in managing EMRs due to
@@ -58,7 +56,6 @@ export default function Vitals() {
           interoperability and data sharing, protecting patient privacy and
           consent, and streamlining healthcare processes.
         </p>
-
         {/* Image */}
         <h2>Research</h2>
         <p>
@@ -73,7 +70,6 @@ export default function Vitals() {
           Identify the target market for EMR software Understand users
           frustrations Define a problem statement
         </p>
-
         <h2>Building Empathy</h2>
         <p>
           Empathizing with users ensure that my team and I understands users
@@ -100,6 +96,8 @@ export default function Vitals() {
           are typically framed as open-ended challenges. We were informed by the
           insights gained from the empathy map.
         </p>
+        <h3 className="text-lg font-medium text-white">Check out</h3>
+        <h3 className="text-[40px] font-bold uppercase">other projects</h3>{" "}
       </section>
     </section>
   );
