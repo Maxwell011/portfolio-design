@@ -8,7 +8,7 @@ export default function Available() {
           src="/Cade.png"
           width={1500}
           height={60}
-          alt="work image"
+          alt="Available image"
           className=""
         />
       </section>
