@@ -85,7 +85,7 @@ export default function MeetExpert() {
         </div>
         <h2>Overview</h2>
         <h2>Full landing page design</h2>
-        <h3>Check out</h3>
+        <h3 className="text-lg font-medium text-white">Check out</h3>
         <h3>other projects</h3>{" "}
       </section>
     </section>
