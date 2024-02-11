@@ -13,7 +13,7 @@ export default function MeetExpert() {
           src="/Cover page Expert.png"
           width={1240}
           height={779}
-          alt="work image"
+          alt="Project image"
           className=""
         />
         <div className="flex gap-[50rem]">
