@@ -1,7 +1,7 @@
 export default function Vitals() {
   return (
     <section>
-      <section>
+      <section className="bg-black flex flex-col items-center justify-center text-center px-[100px] py-0">
         <h1 className="text-[64px] font-bold uppercase">
           Vitals - Emr Software
         </h1>
