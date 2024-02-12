@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Money Finance] <a name="about-project"></a>
+# 📖 [Portfolio] <a name="about-project"></a>
 
-Money Finance is a financial app that lets you make transfer and pay bills and manage you finance
+This is a portfolio of a designer that contains prvious projects and details
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,10 +52,10 @@ Money Finance is a financial app that lets you make transfer and pay bills and m
 
 ### ✨ Key Features <a name="key-features"></a>
 
-- Able to transfer funds
-- Able to pay bills
-- Manage Finance
-- login to access main app
+-
+-
+-
+-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +86,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  https://github.com/Maxwell011/moni-finance.git
+  https://github.com/Maxwell011/portfolio-design.git
 ```
 
 ### Install
@@ -141,7 +141,7 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Henry Eze**
+👤 ****
 
 - Behance: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitter](https://twitter.com/twitterhandle)
