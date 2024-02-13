@@ -39,7 +39,6 @@ export default function Home() {
       <Works />
       <Available />
       <About />
-      <Available />
       <Contact />
     </main>
   );
