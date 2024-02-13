@@ -1,10 +1,12 @@
 import Link from "next/link";
 import ArrowUp from "../svg/ArrowUp";
+import Available from "./Available";
 
 const Contact = () => {
   return (
     <>
       <section>
+        <Available />
         <section
           className="flex items-center flex-col bg-abyss mt-20 py-20"
           id="contact"
@@ -65,6 +67,7 @@ const Contact = () => {
             </Link>
           </div>
         </section>
+        <Available />
       </section>
     </>
   );
