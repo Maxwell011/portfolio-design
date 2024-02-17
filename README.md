@@ -55,7 +55,6 @@ This is a portfolio of a designer that contains prvious projects and details
 -
 -
 -
--
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
