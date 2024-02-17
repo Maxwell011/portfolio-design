@@ -43,7 +43,7 @@ This is a portfolio of a designer that contains prvious projects and details
   <ul>
     <li><a href="https://nextjs.org/">Next Js</a></li>
     <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https:///">MongoDB</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
     <li><a href="https://www.mongodb.com/">MongoDB</a></li>
   </ul>
