@@ -39,7 +39,9 @@ export default function Home() {
         <Available />
       </div>
       <Works />
-      <Available />
+      <div className="my-[60px]">
+        <Available />
+      </div>{" "}
       <About />
       <Contact />
     </main>
