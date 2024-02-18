@@ -7,7 +7,7 @@ export default function MarketPlace() {
     <section>
       <section className="bg-black flex flex-col items-center justify-center text-center px-[100px] py-0">
         <h1 className="text-[64px] font-bold uppercase">Munmba</h1>
-        <p className="text-white text-lg font-normal tracking-[0.36px]">
+        <p className=" mb-6 text-white text-lg font-normal tracking-[0.36px]">
           💎 Own a Piece of the Future: Imagine owning a digital masterpiece
           that as unique as your fingerprint. With NFTs, you can acquire digital
           assets that are yours, and backed by blockchain technology. Discover
@@ -30,7 +30,7 @@ export default function MarketPlace() {
           <Chain />
           <Chain />
         </div>
-        <div className="border flex w-[1240px] flex-col items-start rounded-3xl border-solid border-gold">
+        <div className="mb-10 border flex w-[1240px] flex-col items-start rounded-3xl border-solid border-gold">
           <div className="border-b-[#CDAF75] border-b border-solid flex flex-col items-start gap-3 px-12 py-6">
             <div className="flex flex-col items-start gap-3 self-stretch px-12 py-6 border-b-[#CDAF75] border-b border-solid">
               <h2 className="text-white text-[32px] font-semibold tracking-[0.64px]">
@@ -80,9 +80,6 @@ export default function MarketPlace() {
           alt="work image"
           className=""
         />
-        <h2 className="text-[40px] font-semibold tracking-[0.02em]">
-          Full landing page design
-        </h2>
         <Image
           src="/Full-landing-page.png"
           width={1240}
