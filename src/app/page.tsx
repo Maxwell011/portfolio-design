@@ -35,7 +35,9 @@ export default function Home() {
         </div>
       </section>
       <InfiniteMovingCardsDemo />
-      <Available />
+      <div className="my-[60px]">
+        <Available />
+      </div>
       <Works />
       <Available />
       <About />
