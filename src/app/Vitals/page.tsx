@@ -1,3 +1,5 @@
+import Contact2 from "../components/contact2";
+
 export default function Vitals() {
   return (
     <section>
@@ -99,6 +101,7 @@ export default function Vitals() {
         <h3 className="text-lg font-medium text-white">Check out</h3>
         <h3 className="text-[40px] font-bold uppercase">other projects</h3>{" "}
       </section>
+      <Contact2 />
     </section>
   );
 }
