@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./public/money.svg" alt="logo" width="140"  height="auto" />
+  <img src="./" alt="logo" width="140"  height="auto" />
   <br/>
 
 </div>
@@ -42,17 +42,16 @@ This is a portfolio of a designer that contains prvious projects and details
 
   <ul>
     <li><a href="https://nextjs.org/">Next Js</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https:///">Express.js</a></li>
+    <li><a href="https:///"></a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a></a></li>
   </ul>
 
 <!-- Features -->
 
 ### ✨ Key Features <a name="key-features"></a>
 
--
 -
 -
 -
