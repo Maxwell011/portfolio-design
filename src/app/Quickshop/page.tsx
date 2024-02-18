@@ -83,7 +83,7 @@ export default function QuickShop() {
           alt="Mobile screen image"
           className=""
         />
-        <div className="">
+        <div className="my-[60px]">
           <Available />
         </div>
         <h3 className="text-lg font-medium text-white">Check out</h3>
