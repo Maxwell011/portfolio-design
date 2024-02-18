@@ -83,7 +83,9 @@ export default function QuickShop() {
           alt="Mobile screen image"
           className=""
         />
-        <Available />
+        <div className="">
+          <Available />
+        </div>
         <h3 className="text-lg font-medium text-white">Check out</h3>
         <h3 className="text-[40px] font-bold uppercase">other projects</h3>
       </section>
