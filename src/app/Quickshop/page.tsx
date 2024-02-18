@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Chain from "../svg/chain";
 import Available from "../components/Available";
+import Contact2 from "../components/contact2";
 
 export default function QuickShop() {
   return (
@@ -89,6 +90,7 @@ export default function QuickShop() {
         <h3 className="text-lg font-medium text-white">Check out</h3>
         <h3 className="text-[40px] font-bold uppercase">other projects</h3>
       </section>
+      <Contact2 />
     </section>
   );
 }
