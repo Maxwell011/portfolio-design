@@ -68,9 +68,6 @@ export default function QuickShop() {
             </div>
           </div>
         </div>
-        <h2 className="text-[40px] font-semibold leading-[64px] tracking-[0.02em] text-left text-white">
-          Desktop Screens
-        </h2>
         <Image
           src="/Frame-desktop-boots.png"
           width={1240}
