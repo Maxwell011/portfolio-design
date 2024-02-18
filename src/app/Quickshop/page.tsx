@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Chain from "../svg/chain";
+import Available from "../components/Available";
 
 export default function QuickShop() {
   return (
@@ -82,6 +83,7 @@ export default function QuickShop() {
           alt="Mobile screen image"
           className=""
         />
+        <Available />
         <h3 className="text-lg font-medium text-white">Check out</h3>
         <h3 className="text-[40px] font-bold uppercase">other projects</h3>
       </section>
