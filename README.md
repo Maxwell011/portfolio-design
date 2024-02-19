@@ -3,7 +3,6 @@
 <div align="center">
   <img src="./" alt="logo" width="140"  height="auto" />
   <br/>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
