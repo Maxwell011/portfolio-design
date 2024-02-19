@@ -34,7 +34,7 @@
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-This is a portfolio of a designer that contains prvious projects and details
+This is a portfolio of a designer that contains prvious projects and details and how to connect with rge owner 
 
 ## 🛠 Built With <a name="built-with"></a>
 
