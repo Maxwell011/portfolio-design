@@ -3,7 +3,6 @@
 <div align="center">
   <img src="./" alt="logo" width="140"  height="auto" />
   <br/>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +33,7 @@
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-This is a portfolio of a designer that contains prvious projects and details
+This is a portfolio of a designer that contains prvious projects and details and how to connect with rge owner 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,7 +41,7 @@ This is a portfolio of a designer that contains prvious projects and details
 
   <ul>
     <li><a href="https://nextjs.org/">Next Js</a></li>
-    <li><a href="https:///">Express.js</a></li>
+    <li><a href="https:///"></a></li>
     <li><a href="https:///"></a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
     <li><a></a></li>
