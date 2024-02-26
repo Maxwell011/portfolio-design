@@ -197,6 +197,20 @@ export default function AutoFixHub() {
             className=""
           />
         </div>
+        <Image
+          src="/Usability Study.png"
+          width={1140}
+          height={815}
+          alt="work image"
+          className=""
+        />
+        <Image
+          src="/Refining the design - Accessibility consideration.png"
+          width={1140}
+          height={815}
+          alt="work image"
+          className=""
+        />
       </section>
     </section>
   );
