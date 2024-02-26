@@ -66,7 +66,7 @@ export default function AutoFixHub() {
           <p>
             AutoFixHub is an platform that aims to transform the car repair
             experience, for car owners. Our main objective is to create a
-            website that's easy to use and offers convenience, transparency and
+            website that easy to use and offers convenience, transparency and
             expert solutions for all your car related requirements. Our design
             focuses on resolving issues such, as locating mechanics ensuring
             pricing transparency, managing scheduling conflicts and much more.
@@ -80,6 +80,45 @@ export default function AutoFixHub() {
               className=""
             />
           </div>
+        </div>
+        <div>
+          <h2>Problem Identification</h2>
+          <ul>
+            <li>
+              1. Finding Reliable Mechanics: Car owners struggle to find
+              trustworthy mechanics for their vehicles, leading to uncertainty
+              and frustration.
+            </li>
+            <li>
+              2. Transparency in Pricing: Many car owners feel uncertain about
+              repair costs and worry about hidden charges.
+            </li>
+            <li>
+              3. Scheduling Conflicts: Car owners find it difficult to align
+              repair appointments with their busy schedules.
+            </li>
+            <li>
+              4. Uncertainty About Repair Costs: Car owners may worry about
+              unexpected repair costs and might delay or avoid necessary repairs
+              due to fear of high expenses.
+            </li>
+            <li>
+              5. Limited Availability: Getting an appointment at a repair shop
+              might be challenging, especially during peak times, leaving car
+              owners with delayed repairs.
+            </li>
+            <li>
+              6. Lack of Information: Car owners might not have enough knowledge
+              about their car issues, making it difficult for them to make
+              informed decisions about repairs.
+            </li>
+            <li>
+              7. Emergency Situations: Sudden breakdowns or emergencies can
+              leave car owners feeling stranded and anxious, especially if they
+              don know where to turn for help.
+            </li>
+            <li>8. </li>
+          </ul>
         </div>
       </section>
     </section>
