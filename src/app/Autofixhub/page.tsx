@@ -117,7 +117,11 @@ export default function AutoFixHub() {
               leave car owners feeling stranded and anxious, especially if they
               don know where to turn for help.
             </li>
-            <li>8. </li>
+            <li>
+              8. DIY Frustration: Attempting to diagnose and fix issues
+              themselves can lead to frustration and potential further damage if
+              they lack the necessary skills.
+            </li>
           </ul>
         </div>
       </section>
