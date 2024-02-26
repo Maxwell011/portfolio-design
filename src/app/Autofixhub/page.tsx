@@ -133,6 +133,15 @@ export default function AutoFixHub() {
             />
           </div>
         </div>
+        <div>
+        <Image
+              src="/Frame 34056.png"
+              width={1140}
+              height={815}
+              alt="work image"
+              className=""
+            />
+        </div>
       </section>
     </section>
   );
