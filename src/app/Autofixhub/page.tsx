@@ -61,6 +61,26 @@ export default function AutoFixHub() {
             </div>
           </div>
         </div>
+        <div>
+          <h2>Project overview</h2>
+          <p>
+            AutoFixHub is an platform that aims to transform the car repair
+            experience, for car owners. Our main objective is to create a
+            website that's easy to use and offers convenience, transparency and
+            expert solutions for all your car related requirements. Our design
+            focuses on resolving issues such, as locating mechanics ensuring
+            pricing transparency, managing scheduling conflicts and much more.
+          </p>
+          <div>
+            <Image
+              src="/Frame 34050.png"
+              width={675}
+              height={441}
+              alt="work image"
+              className=""
+            />
+          </div>
+        </div>
       </section>
     </section>
   );
