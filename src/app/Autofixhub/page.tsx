@@ -172,6 +172,13 @@ export default function AutoFixHub() {
             alt="work image"
             className=""
           />
+          <Image
+            src="/User Journey Map.png"
+            width={1140}
+            height={815}
+            alt="work image"
+            className=""
+          />
         </div>
       </section>
     </section>
