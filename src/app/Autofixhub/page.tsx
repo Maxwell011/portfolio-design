@@ -156,6 +156,23 @@ export default function AutoFixHub() {
           alt="work image"
           className=""
         />
+        <div>
+          <h2>EMPATHIZING</h2>
+          <p>
+            Using the gathered data, I formulated straightforward user personas.
+            These personas served as reference points during the design process,
+            aiding in decision-making. Additionally, they provided a foundation
+            to support and justify these choices when presenting to
+            stakeholders.
+          </p>
+          <Image
+            src="/Frame 34065.png"
+            width={1140}
+            height={815}
+            alt="work image"
+            className=""
+          />
+        </div>
       </section>
     </section>
   );
