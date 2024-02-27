@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Chain from "../svg/chain";
+import Contact2 from "../components/contact2";
 
 export default function AutoFixHub() {
   return (
@@ -225,6 +226,7 @@ export default function AutoFixHub() {
           alt="work image"
           className=""
         />
+        <Contact2 />
       </section>
     </section>
   );
