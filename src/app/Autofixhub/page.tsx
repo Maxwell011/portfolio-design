@@ -189,13 +189,12 @@ export default function AutoFixHub() {
           />
         </div>
         <div>
-          <h2>WEBSITE HOMEPAGE DESIGN</h2>
           <Image
             src="/Frame 34067.png"
             width={1140}
             height={815}
             alt="work image"
-            className=""
+            className="mb-20"
           />
         </div>
         <Image
@@ -203,14 +202,14 @@ export default function AutoFixHub() {
           width={1140}
           height={815}
           alt="work image"
-          className=""
+          className="mb-20"
         />
         <Image
           src="/Refining the design - Accessibility consideration.png"
           width={1140}
           height={815}
           alt="Accessibility image image"
-          className=""
+          className="mb-20"
         />
         <Image
           src="/Going forward.png"
