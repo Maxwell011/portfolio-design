@@ -209,22 +209,22 @@ export default function AutoFixHub() {
           src="/Refining the design - Accessibility consideration.png"
           width={1140}
           height={815}
-          alt="work image"
+          alt="Accessibility image image"
           className=""
         />
         <Image
           src="/Going forward.png"
           width={1240}
           height={1953}
-          alt="work image"
-          className=""
+          alt="Going Forward image"
+          className="mb-20"
         />
         <Image
           src="/Style Guide.png"
           width={1240}
           height={1999}
-          alt="work image"
-          className=""
+          alt="style guide image"
+          className="mb-20"
         />
       </section>
       <Contact2 />
