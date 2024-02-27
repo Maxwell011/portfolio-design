@@ -218,6 +218,13 @@ export default function AutoFixHub() {
           alt="work image"
           className=""
         />
+        <Image
+          src="/Style Guide.png"
+          width={1240}
+          height={1999}
+          alt="work image"
+          className=""
+        />
       </section>
     </section>
   );
