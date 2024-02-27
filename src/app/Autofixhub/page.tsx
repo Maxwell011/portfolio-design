@@ -130,7 +130,7 @@ export default function AutoFixHub() {
               width={1140}
               height={815}
               alt="work image"
-              className=""
+              className="mb-20"
             />
           </div>
         </div>
@@ -140,7 +140,7 @@ export default function AutoFixHub() {
             width={1140}
             height={815}
             alt="work image"
-            className=""
+            className="mb-20"
           />
         </div>
         <Image
