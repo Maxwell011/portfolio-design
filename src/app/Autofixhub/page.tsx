@@ -226,8 +226,8 @@ export default function AutoFixHub() {
           alt="work image"
           className=""
         />
-        <Contact2 />
       </section>
+      <Contact2 />
     </section>
   );
 }
