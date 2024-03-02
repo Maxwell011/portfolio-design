@@ -139,7 +139,7 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 ****
+👤 **Stanley**
 
 - Behance: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitter](https://twitter.com/twitterhandle)
