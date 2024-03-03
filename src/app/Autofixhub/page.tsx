@@ -201,7 +201,7 @@ export default function AutoFixHub() {
           src="/Usability Study.png"
           width={1140}
           height={815}
-          alt="image"
+          alt="Usability image"
           className="mb-20"
         />
         <Image
