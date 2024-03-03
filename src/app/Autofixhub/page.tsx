@@ -171,21 +171,21 @@ export default function AutoFixHub() {
             width={1140}
             height={815}
             alt="work image"
-            className=""
+            className="mb-20"
           />
           <Image
             src="/User Journey Map.png"
             width={1140}
             height={815}
             alt="work image"
-            className=""
+            className="mb-20"
           />
           <Image
             src="/Frame 34084.png"
             width={1240}
             height={815}
             alt="work image"
-            className=""
+            className="mb-20"
           />
         </div>
         <div>
