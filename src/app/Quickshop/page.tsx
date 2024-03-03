@@ -8,6 +8,9 @@ export default function QuickShop() {
     <section>
       <section className="bg-black flex flex-col items-center justify-center text-center px-[100px] py-0">
         <h1 className="text-[64px] font-bold uppercase">Quickshop</h1>
+        <h1 className="text-[64px] font-bold uppercase bg-gradient-to-r from-gold via-base to-vine inline-block text-transparent bg-clip-text">
+          Quickshop
+        </h1>
         <p className="text-white text-lg font-normal tracking-[0.36px] w-[1240px] h-[116px] font-plex mb-5">
           Welcome to our one-stop online store for all your football needs! We
           offer a wide range of high-quality football equipment, including
