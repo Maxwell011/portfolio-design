@@ -170,21 +170,21 @@ export default function AutoFixHub() {
             src="/Frame 34065.png"
             width={1140}
             height={815}
-            alt="work image"
+            alt="Frame image"
             className="mb-20"
           />
           <Image
             src="/User Journey Map.png"
             width={1140}
             height={815}
-            alt="work image"
+            alt="User journey image"
             className="mb-20"
           />
           <Image
             src="/Frame 34084.png"
             width={1240}
             height={815}
-            alt="work image"
+            alt="Project frame image"
             className="mb-20"
           />
         </div>
@@ -193,7 +193,7 @@ export default function AutoFixHub() {
             src="/Frame 34067.png"
             width={1140}
             height={815}
-            alt="work image"
+            alt="Project frame image"
             className="mb-20"
           />
         </div>
@@ -201,7 +201,7 @@ export default function AutoFixHub() {
           src="/Usability Study.png"
           width={1140}
           height={815}
-          alt="work image"
+          alt="image"
           className="mb-20"
         />
         <Image
