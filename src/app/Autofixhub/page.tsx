@@ -148,14 +148,14 @@ export default function AutoFixHub() {
           width={1240}
           height={1001}
           alt="work image"
-          className=""
+          className="mb-20"
         />
         <Image
           src="/Interview survey.png"
           width={1240}
           height={2761}
           alt="work image"
-          className=""
+          className="mb-20"
         />
         <div>
           <h2>EMPATHIZING</h2>
