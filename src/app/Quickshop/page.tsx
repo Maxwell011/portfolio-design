@@ -7,7 +7,6 @@ export default function QuickShop() {
   return (
     <section>
       <section className="bg-black flex flex-col items-center justify-center text-center px-[100px] py-0">
-        <h1 className="text-[64px] font-bold uppercase">Quickshop</h1>
         <h1 className="text-[64px] font-bold uppercase bg-gradient-to-r from-gold via-base to-vine inline-block text-transparent bg-clip-text">
           Quickshop
         </h1>
