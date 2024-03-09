@@ -18,7 +18,7 @@ export default function PublishingHouse() {
           src="/Publishing Cover Presentation.png"
           width={1240}
           height={872}
-          alt="work image"
+          alt="Publishing cover image"
           className=""
         />
         <div className="flex gap-[50rem]">
