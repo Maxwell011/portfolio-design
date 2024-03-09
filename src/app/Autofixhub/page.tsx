@@ -139,7 +139,7 @@ export default function AutoFixHub() {
             src="/Frame 34056.png"
             width={1140}
             height={815}
-            alt="work image"
+            alt="Project image"
             className="mb-20"
           />
         </div>
