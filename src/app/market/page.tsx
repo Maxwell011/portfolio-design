@@ -77,7 +77,7 @@ export default function MarketPlace() {
           src="/Cover Presentation.png"
           width={1140}
           height={815}
-          alt="work image"
+          alt="Project cover image"
           className=""
         />
         <Image
