@@ -13,7 +13,7 @@ export default function AutoFixHub() {
           src="/Cover page Expert.png"
           width={1240}
           height={779}
-          alt="work image"
+          alt="Project cover image"
           className=""
         />
         <div className="flex gap-[50rem]">
