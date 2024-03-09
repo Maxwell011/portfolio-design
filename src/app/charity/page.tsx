@@ -65,10 +65,10 @@ export default function Charity() {
         {/* image */}
         <h2>Full landing page design</h2>
         {/* image */}
-        <h3>Check out</h3>
-        <h3>other projects</h3> 
+        <h3 className="text-lg font-medium text-white">Check out</h3>
+        <h3 className="text-[40px] font-bold uppercase">other projects</h3>
       </section>
-        <Contact2 />
+      <Contact2 />
     </section>
   );
 }
