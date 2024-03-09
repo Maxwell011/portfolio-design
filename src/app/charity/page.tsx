@@ -22,7 +22,7 @@ export default function Charity() {
             src="/Rectangle 23 (4).png"
             width={1140}
             height={815}
-            alt="work image"
+            alt="Project cover image"
             className=""
           />
         </div>
